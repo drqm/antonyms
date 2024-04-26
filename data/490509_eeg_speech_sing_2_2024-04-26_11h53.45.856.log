@@ -1,0 +1,16 @@
+5.3450 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1440, 900]. Using actual size
+6.7314 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+6.7320 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f9a61c74970>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f9a61c74910>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f9a61c74790>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f9a517ad100>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.7321 	EXP 	window1: mouseVisible = True
+6.7321 	EXP 	window1: backgroundImage = ''
+6.7322 	EXP 	window1: backgroundFit = 'none'
+6.7356 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.7356 	EXP 	window1: recordFrameIntervals = False
+6.8250 	EXP 	window1: recordFrameIntervals = True
+7.1416 	EXP 	Screen (0) actual frame rate measured at 120.44Hz
+7.1416 	EXP 	window1: recordFrameIntervals = True
+7.1427 	EXP 	window1: mouseVisible = False
+37.5108 	EXP 	window1: mouseVisible = True
